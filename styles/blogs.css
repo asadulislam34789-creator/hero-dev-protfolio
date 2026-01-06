@@ -1,0 +1,7 @@
+nav li a{
+    list-style: none;
+    display: inline;
+}
+nav li a{
+    text-decoration:none;
+}
